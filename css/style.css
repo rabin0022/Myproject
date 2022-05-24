@@ -1,0 +1,21 @@
+body{margin:0;padding:20px 0; background-color:#f8f8f8}
+
+.container{ width:90%; margin:0 auto; clear:both;}
+
+.header:after{ clear:both; content:"";height:1px;}
+
+.header div{float:left;}
+.header div.my_img img{ width:200px; height:200px; border:5px solid #FFFFFF; border-radius:10%}
+
+.my_name{padding:30px;}
+
+.my_name span{font-size:22px; color:#CC9900;}
+
+.content-body{ clear:both; padding-top:25px;}
+
+.my_name h1{}
+
+.footer{ border-top:2px solid #dfdfdf; padding:20px 0; margin-top:30px;}
+
+
+.
